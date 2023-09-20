@@ -149,6 +149,7 @@ h1 {
 .article-sect2 article{
     display: flex;
     background-color: coral;
+    margin: 2%
 }
 
 .article-sect2 h3 {
@@ -174,6 +175,8 @@ h1 {
 .section3 h2 {
     text-transform: uppercase;
     text-align: center;
+    text-decoration: underline;
+    color: brown;
 }
 
 .article-sect3 {
@@ -191,6 +194,7 @@ h1 {
 .article-sect3 article {
     display: flex;
     background-color: rgb(110, 20, 76);
+    margin: 2%
 }
 
 .article-sect3 h3 {
@@ -199,9 +203,9 @@ h1 {
 
 /* PIE DE PÁGINA */
 footer h5 {
-background-color: black;
-color: white;
-height: 50px;
-text-align: center;
-padding-top: 1%;
+    background-color: black;
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding-top: 1%;
 }
